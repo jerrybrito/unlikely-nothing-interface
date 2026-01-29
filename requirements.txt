@@ -1,0 +1,2 @@
+# Requires: quasi-paradox
+# (Not available on PyPI)
